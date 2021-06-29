@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m a Postdoctoral Research Fellow working at the University of Southampton using genomic tools to understand how climate change will affect marine biodiversity. 
+- 🌱 I’m currently trying to improve my general coding skillset (mainly R), through data visualisations.
+- 📫 Reach me on twitter: [@jamie_bio](www.twitter.com/jamie_bio)
+- 😄 Pronouns: He/Him
+
+![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonJamie&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
 <!--
 **HudsonJamie/HudsonJamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
