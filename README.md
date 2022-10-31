@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Postdoctoral Research Fellow working at the University of Southampton using genomic tools to understand how climate change will affect marine biodiversity. 
+- 🔭 I’m a Data Scienest using Natural Language Processing to better understand the online world. 
 - 🌱 I’m currently trying to improve my general coding skillset (mainly R), through data visualisations.
 - 📫 Reach me on twitter: [@jamie_bio](www.twitter.com/jamie_bio)
 - 😄 Pronouns: He/Him
