@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Data Scienest using Natural Language Processing to better understand the online world. 
+- 🔭 I’m a Data Scientist using Natural Language Processing to better understand the online world. 
 - 🌱 I’m currently trying to improve my general coding skillset (mainly R), through data visualisations.
 - 📫 Reach me on twitter: [@jamie_bio](www.twitter.com/jamie_bio)
 - 😄 Pronouns: He/Him
